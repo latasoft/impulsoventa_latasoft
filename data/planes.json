@@ -1,0 +1,5 @@
+[
+    { "id": 1,  "planPrec": "2500", "planNombr": "Base de datos 1.000 pymes/empresas", "planDescr": "Potencia tu estrategia de marketing con nuestra base de datos de 1.000 contactos de pymes y empresas. Accede a una amplia gama de prospectos para impulsar tus campañas promocionales y expandir tu red de clientes potenciales de manera efectiva." },
+    { "id": 2,  "planPrec": "4000", "planNombr": "Base de datos 2.000 pymes/empresas", "planDescr": "Maximiza el alcance de tu negocio con nuestra completa base de datos de 2.000 contactos de pymes y empresas. Con una amplia variedad de prospectos a tu disposición, podrás aumentar la efectividad de tus campañas de marketing y alcanzar nuevos clientes en diferentes sectores y regiones." },
+    { "id": 3,  "planPrec": "5000", "planNombr": "Base de datos 5.000 pymes/empresas", "planDescr": "Obtén una ventaja competitiva con nuestra extensa base de datos de 5.000 contactos de pymes y empresas. Con una abundancia de prospectos a tu alcance, podrás desarrollar estrategias de marketing más sólidas y llegar a una audiencia más amplia, facilitando el crecimiento y la expansión de tu negocio de manera significativa." }
+  ]
